@@ -17,3 +17,9 @@ behaviours is still a barrier because of its complex nature. Many real time prob
 be solved by using machine learning and the data analytic techniques.
 
 # Requiremts
+* Python 3.0
+* tensorflow 2.0
+* keras 2.3.0
+* matplotlib
+* ffmpeg
+
